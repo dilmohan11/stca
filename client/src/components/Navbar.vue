@@ -1,6 +1,6 @@
 <template>
 <header class="navbar h-24 flex justify-between text-white font-bold text-xl">
-  
+
   <router-link :to="{name: 'Home'}">
     <img src="../assets/images/logo.png" alt="Sagar Tarang Association Logo" class="">
   </router-link>
@@ -19,7 +19,7 @@
       <router-link 
         :to="{name: 'Contact'}" 
         class="hover:text-blue-300 transform transition duration-300 ease-linear">
-        Contat Us
+        Contact Us
       </router-link>
       <router-link 
         :to="{name: 'Register'}" 
