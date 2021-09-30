@@ -1,7 +1,7 @@
 <template>
   <section class="form-container">
       <div class="form">
-          <h3 class="text-4xl text-center p-5">Fill out the Players below:</h3>
+          <h3 class="text-4xl text-center p-5">Enter the information below:</h3>
       </div>
       <form class="max-w-screen-sm my-5 mx-auto">
           <!-- <label> Player Name </label> -->
